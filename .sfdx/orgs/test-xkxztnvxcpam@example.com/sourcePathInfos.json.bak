@@ -49,11 +49,11 @@
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1518762908482,
-            "changeTime": 1518762908482,
+            "size": 224,
+            "modifiedTime": 1518762745227,
+            "changeTime": 1518762745227,
             "isWorkspace": false,
-            "contentHash": "23660167a0fa4569f0c9187c3e1280d8bd7ba165"
+            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 206,
             "modifiedTime": 1518762813827,
             "changeTime": 1518762813841,
-            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "db049c83f47e1c6fc0c9e4dc7a2b5c77a275bfa1"
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 342,
+            "modifiedTime": 1518762409534,
+            "changeTime": 1518762409553,
+            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391",
             "isMetadataFile": false,
-            "size": 544,
-            "modifiedTime": 1518763015320,
-            "changeTime": 1518763015328,
-            "contentHash": "ab4b9f168d25c48924690b7062160f5e92a68eae"
+            "state": "u"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1518762427347,
+            "changeTime": 1518762427349,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1518763031445,
-            "changeTime": 1518763031453,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -918,27 +918,27 @@
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1518762745230,
             "changeTime": 1518762745230,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
         }
     ],
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
+            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1518762745230,
             "changeTime": 1518762745230,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
         }
     ],
     [
@@ -948,62 +948,62 @@
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 334,
-            "modifiedTime": 1518763074626,
-            "changeTime": 1518763074639,
-            "contentHash": "df14e0782d0c703b15579aef1ba8c6efac91b6d5"
+            "size": 260,
+            "modifiedTime": 1518762768365,
+            "changeTime": 1518762768380,
+            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669"
         }
     ],
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1518762745227,
             "changeTime": 1518762745227,
-            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af"
         }
     ],
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 42,
             "modifiedTime": 1518762792968,
             "changeTime": 1518762792976,
-            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c"
         }
     ],
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
+            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1518762745230,
             "changeTime": 1518762745230,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
         }
     ],
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
+            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1518762745229,
             "changeTime": 1518762745229,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
         }
     ],
     [
@@ -1013,75 +1013,36 @@
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 833,
-            "modifiedTime": 1518763096720,
-            "changeTime": 1518763096732,
-            "contentHash": "66b62a139b9cca8204da084c582323079ab70ffe"
+            "size": 379,
+            "modifiedTime": 1518762782414,
+            "changeTime": 1518762782421,
+            "contentHash": "03c2ff940a77f739be3be834b08d71acb5ef1c83"
         }
     ],
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1518762745228,
             "changeTime": 1518762745228,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1518762745229,
             "changeTime": 1518762745229,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1518762908484,
-            "changeTime": 1518762908484,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1518762949571,
-            "changeTime": 1518762949585,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/hua.xu/SFDX/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1518762908484,
-            "changeTime": 1518762908484,
-            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
